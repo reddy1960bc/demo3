@@ -1,1 +1,3 @@
-Welcome to terraform code 
+Welcome to terraform class
+welcome to devops class
+welcome to ar tech 8am class
